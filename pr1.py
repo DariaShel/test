@@ -1,1 +1,2 @@
 print('ass')
+print('bbb')
